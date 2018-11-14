@@ -1,0 +1,12 @@
+{"file":"preload.png","frames":{
+"1_pic_2_png":{"x":621,"y":1737,"w":312,"h":136,"offX":0,"offY":0,"sourceW":312,"sourceH":136},
+"1_pic_3_png":{"x":621,"y":1337,"w":117,"h":398,"offX":0,"offY":0,"sourceW":117,"sourceH":398},
+"1_pic_4_png":{"x":1,"y":1655,"w":386,"h":277,"offX":0,"offY":0,"sourceW":386,"sourceH":277},
+"1_pic_5_png":{"x":389,"y":1655,"w":230,"h":354,"offX":0,"offY":0,"sourceW":231,"sourceH":354},
+"1_pic_88_png":{"x":1,"y":1,"w":750,"h":1334,"offX":0,"offY":0,"sourceW":750,"sourceH":1334},
+"2_pic_2_png":{"x":753,"y":1129,"w":601,"h":550,"offX":0,"offY":0,"sourceW":601,"sourceH":550},
+"2_pic_3_png":{"x":1,"y":1934,"w":304,"h":96,"offX":0,"offY":0,"sourceW":304,"sourceH":96},
+"10_pic_2_png":{"x":753,"y":1,"w":665,"h":1126,"offX":0,"offY":0,"sourceW":665,"sourceH":1126},
+"musicPlay_png":{"x":307,"y":1986,"w":50,"h":50,"offX":0,"offY":0,"sourceW":50,"sourceH":50},
+"musicStop_png":{"x":307,"y":1934,"w":50,"h":50,"offX":0,"offY":0,"sourceW":50,"sourceH":50},
+"wz_png":{"x":1,"y":1337,"w":496,"h":316,"offX":0,"offY":0,"sourceW":496,"sourceH":316}}}

@@ -1,0 +1,26 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,preload_json,music_mp3",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "preload_json",
+			"subkeys": "10_pic_2_png,1_pic_2_png,1_pic_3_png,1_pic_4_png,1_pic_5_png,1_pic_88_png,2_pic_2_png,2_pic_3_png,musicPlay_png,musicStop_png,wz_png",
+			"type": "sheet",
+			"url": "assets/preload.json"
+		},
+		{
+			"name": "music_mp3",
+			"type": "sound",
+			"url": "assets/music.mp3"
+		}
+	]
+}

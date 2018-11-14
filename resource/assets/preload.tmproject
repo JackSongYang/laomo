@@ -1,0 +1,24 @@
+{
+    "projectName": "preload",
+    "files": [
+        "./wz.png",
+        "./musicStop.png",
+        "./musicPlay.png",
+        "./10_pic_2.png",
+        "./2_pic_3.png",
+        "./2_pic_2.png",
+        "./1_pic_88.png",
+        "./1_pic_5.png",
+        "./1_pic_4.png",
+        "./1_pic_3.png",
+        "./1_pic_2.png"
+    ],
+    "options": {
+        "layoutMath": "2",
+        "sizeMode": "2n",
+        "useExtension": 1,
+        "layoutGap": 1,
+        "extend": 0
+    },
+    "version": 5
+}
